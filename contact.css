@@ -28,10 +28,10 @@ input, textarea{
 }
 
 input:focus:valid{
-    border-color: chartreuse;
+    background-color: rgb(183, 248, 118);
 }
 
 input:focus:invalid{
-    border-color:darkred;
+    background-color:rgb(247, 129, 129);
 }
 

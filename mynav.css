@@ -52,3 +52,13 @@ a.dropdown-item:hover {
     animation-name: pulse;
     animation-duration: 1s;
 }
+
+.navbar-toggler{
+    background-color:#ECF8F9;
+}
+
+.collapse{
+    background-color: rgb(34,34,34);
+    transition-duration: 0s;
+    transition-delay: 0s;
+}
